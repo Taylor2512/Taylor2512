@@ -40,16 +40,17 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
       <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg" alt="java" width="150" height="60"/>
   </a>
-  <a href="/util/preview.html?image=/logos/dotnet/dotnet-vertical.svg" rel="nofollow">
-  <img alt="Vector (.svg) logo for Microsoft .Net: Vertical Badge" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" style="height:120px;">
+  <a href="https://dotnet.microsoft.com/es-es/" rel="nofollow">
+  <img 
+  alt="Vector (.svg) logo for Microsoft .Net: Vertical Badge" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" style="height:120px;">
   </a>
   
  
-     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+     <a href="https://portal.azure.com" target="_blank" rel="azure">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="microsoft_azure" width="90" height="60"/>
   </a>
   
-     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" width="150" height="60"/>
   </a>
    
