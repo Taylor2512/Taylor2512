@@ -1,4 +1,4 @@
-### I want to be part of the change I want to see in the world...
+I want to be part of the change I want to see in the world...
 
 # Hi! My name´s Jhonn Taylor Montenegro Arellano👋
 
@@ -28,13 +28,7 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="90" height="60"/>
   </a>
  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="90" height="60"/>
-  </a>
- 
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="90" height="60"/>
-  </a>
+
  
    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="150" height="60"/>
@@ -43,9 +37,33 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
    <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="150" height="60"/>
   </a>
-  
+      <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg" alt="java" width="150" height="60"/>
+  </a>
   <a href="/util/preview.html?image=/logos/dotnet/dotnet-vertical.svg" rel="nofollow">
-  <img alt="Vector (.svg) logo for Microsoft .Net: Vertical Badge" src="dotnet-vertical.svg" style="height:120px;">
+  <img alt="Vector (.svg) logo for Microsoft .Net: Vertical Badge" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" style="height:120px;">
+  </a>
+  
+     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="java" width="150" height="60"/>
+  </a>  
+     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="java" width="150" height="60"/>
+  </a>
+   
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="90" height="60"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="90" height="60"/>
+  </a>
+ 
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongoDb" width="90" height="60"/>
+  </a>
+  
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="mongoDb" width="90" height="60"/>
   </a>
   
 </p>
@@ -63,6 +81,9 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
   
    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="java" width="150" height="60"/>
+  </a>
+   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="java" width="150" height="60"/>
   </a>
 
   
@@ -90,3 +111,4 @@ Here are some ideas to get you started:
 - Pronouns: ...
 -  Fun fact: ...
 -->
+
