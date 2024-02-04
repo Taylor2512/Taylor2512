@@ -40,6 +40,13 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
       <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg" alt="java" width="150" height="60"/>
   </a>
+
+    </a>
+      <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img
+  src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"  alt="java" width="150" height="60"/>
+  </a>
+  
   <a href="/util/preview.html?image=/logos/dotnet/dotnet-vertical.svg" rel="nofollow">
   <img alt="Vector (.svg) logo for Microsoft .Net: Vertical Badge" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" style="height:120px;">
   </a>
