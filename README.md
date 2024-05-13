@@ -80,8 +80,7 @@ I'm a systems engineer who is passionate about leveraging technology to contribu
 
 ## Contact me 💬
 
-- Email: jt.25.12@hotmail.com
-- Phone: 0996757178
+- Email: jt.25.12@hotmail.com :jhonmontenegro2512@gmail.com
 
 <!--
 **Taylor2512/Taylor2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
